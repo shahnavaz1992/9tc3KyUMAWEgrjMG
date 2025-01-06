@@ -123,6 +123,9 @@ Future Work
 Enhance the page flip detection model to support video streams directly.
 Optimize PaddleOCR for faster text extraction.
 Add multi-language support for text recognition and speech synthesis.
+The video link that show the deployment and use of the application is:
+https://youtu.be/m6m_ETYGwuM
+
 Contact
 For inquiries or collaboration, reach out at:
 
