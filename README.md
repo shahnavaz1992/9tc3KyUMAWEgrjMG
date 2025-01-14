@@ -130,4 +130,4 @@ Contact
 For inquiries or collaboration, reach out at:
 
 Email: faridshahnavaz@gmail.com
-LinkedIn: www.linkedin.com/in/farid-shahnavaz-13199a87
+LinkedIn: www.linkedin.com/in/farid-shahnavaz
